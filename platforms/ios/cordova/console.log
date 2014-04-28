@@ -1,0 +1,21 @@
+2014-04-18 09:57:12.951 Cringe[37903:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-18 09:57:12.957 Cringe[37903:70b] Unlimited access to network resources
+2014-04-18 09:57:13.070 Cringe[37903:70b] Resetting plugins due to page load.
+2014-04-18 09:57:13.122 Cringe[37903:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CA849F32-4780-4F75-B7EB-15A2E43C72BE/Cringe.app/www/index.html
+2014-04-18 10:26:26.715 Cringe[38845:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-18 10:26:26.724 Cringe[38845:70b] Unlimited access to network resources
+2014-04-18 10:26:26.833 Cringe[38845:70b] Resetting plugins due to page load.
+2014-04-18 10:26:26.862 Cringe[38845:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CA849F32-4780-4F75-B7EB-15A2E43C72BE/Cringe.app/www/index.html
+2014-04-18 10:26:26.900 Cringe[38845:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-18 10:26:26.903 Cringe[38845:70b] THREAD WARNING: ['InAppBrowser'] took '25.788086' ms. Plugin should use a background thread.
+2014-04-18 10:47:17.884 Cringe[39348:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-18 10:47:18.009 Cringe[39348:70b] Resetting plugins due to page load.
+2014-04-18 10:47:18.045 Cringe[39348:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CA849F32-4780-4F75-B7EB-15A2E43C72BE/Cringe.app/www/index.html
+2014-04-18 10:47:18.088 Cringe[39348:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-18 10:47:18.092 Cringe[39348:70b] THREAD WARNING: ['InAppBrowser'] took '21.898193' ms. Plugin should use a background thread.
+2014-04-18 10:56:44.868 Cringe[39903:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-18 10:56:44.987 Cringe[39903:70b] Resetting plugins due to page load.
+2014-04-18 10:56:45.027 Cringe[39903:70b] Finished load of: file:///Users/jtreadway/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CA849F32-4780-4F75-B7EB-15A2E43C72BE/Cringe.app/www/index.html
+2014-04-18 10:56:45.082 Cringe[39903:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-04-18 10:56:45.087 Cringe[39903:70b] THREAD WARNING: ['InAppBrowser'] took '29.888672' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.

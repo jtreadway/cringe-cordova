@@ -1,0 +1,23 @@
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes.dex : \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/BuildConfig.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/Cringe.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/R$attr.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/R$drawable.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/R$string.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/R$xml.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/com/cringe/main/R.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/jtreadway/Projects/cringe-cordova/platforms/android/ant-build/dexedLibs/classes-987e670b7d24b7cc25de17c94435d889.jar \
